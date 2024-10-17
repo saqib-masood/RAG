@@ -10,3 +10,4 @@ Steps to Run the code
 4. Run the server by
    `streamline run app.py`
    TADAAA You are ready with your RAG model
+![image](https://github.com/user-attachments/assets/e02a7144-de76-456f-b654-b8887678eb06)
